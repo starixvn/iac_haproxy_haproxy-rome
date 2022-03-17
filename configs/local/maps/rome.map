@@ -41,7 +41,7 @@ cloneaccount.nexdev.net rome_alpha_copy_customer_api_LOCAL_be
 mbc-assets.nexdev.net rome_alpha_assetsi1_LOCAL_be
 789y-assets.nexdev.net rome_alpha_assetsi7_LOCAL_be
 alpha-u3.nexdev.net rome_alpha_u3_LOCAL_be
-dcs-api.nexdev.net rome_dsc_setting_api_be
+dcs-api.nexdev.net rome_dsc_setting_api_LOCAL_be
 dcs-static-resources.nexdev.net rome_dsc_staticresources_LOCAL_be
 dcs-matrix-api.nexdev.net rome_dsc_matrix_api_LOCAL_be
 chatbot-api.nexdev.net rome_chatbot_api_LOCAL_be
