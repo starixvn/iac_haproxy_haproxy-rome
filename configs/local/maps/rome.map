@@ -1,9 +1,8 @@
 #ROME
 nap-u3.nexdev.net rome_nap_u3_LOCAL_be
 onebookum.nexdev.net rome_onebook_um_api_LOCAL_be
-dcs-api.nexdev.net rome_dsc_setting_api_LOCAL_be
-dcs-static-resources.nexdev.net rome_dsc_staticresources_nodes
-dcs-matrix-api.nexdev.net rome_dsc_matrix_api_nodes
+dcs-api.nexdev.net rome_dcs_setting_api_LOCAL_be
+dcs-static-resources.nexdev.net rome_dcs_staticresources_LOCAL_be
 accounting.nexdev.net rome_nap_LOCAL_be
 external-accounting.nexdev.net rome_extnap_LOCAL_be
 nap-cm.nexdev.net rome_nap_cm_LOCAL_be
@@ -42,8 +41,7 @@ mbc-assets.nexdev.net rome_alpha_assetsi1_LOCAL_be
 789y-assets.nexdev.net rome_alpha_assetsi7_LOCAL_be
 alpha-u3.nexdev.net rome_alpha_u3_LOCAL_be
 dcs-api.nexdev.net rome_dsc_setting_api_LOCAL_be
-dcs-static-resources.nexdev.net rome_dsc_staticresources_LOCAL_be
-dcs-matrix-api.nexdev.net rome_dsc_matrix_api_LOCAL_be
+dcs-matrix-api.nexdev.net rome_dcs_matrix_api_LOCAL_be
 chatbot-api.nexdev.net rome_chatbot_api_LOCAL_be
 onebookum-3rd.nexdev.net rome_onebook_um_3rd_LOCAL_be
 result-demo.nexdev.net rome_result_core_demo_LOCAL_be
