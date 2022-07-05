@@ -3,6 +3,7 @@ nex3-i1.nexdev.net nex3_i1_cluster_be
 nex3-i7.nexdev.net nex3_i7_cluster_be
 nap-u3.nexdev.net rome_nap_u3_LOCAL_be
 onebookum.nexdev.net rome_onebook_um_api_LOCAL_be
+onebookum-dev.nexdev.net rome_fanex_um_LOCAL_be
 dcs-api.nexdev.net rome_dcs_setting_api_LOCAL_be
 dcs-static-resources.nexdev.net rome_dcs_staticresources_LOCAL_be
 accounting.nexdev.net rome_nap_LOCAL_be
