@@ -61,3 +61,4 @@ telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
 ###docker windows
 alpha-reports.nexdev.net rome_alpha_reports_LOCAL_be
 alpha-login.nexdev.net rome_alpha_before_LOCAL_be
+dcs-api-docker.nexdev.net rome_dcs_settingapi_LOCAL_be
