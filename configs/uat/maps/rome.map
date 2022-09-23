@@ -23,3 +23,6 @@ i7mb3.starixuat.com rome_i7_af3_UAT_be
 i7mb4.starixuat.com rome_i7_af4_UAT_be
 i7mb5.starixuat.com rome_i7_af5_UAT_be
 i7reports.starixuat.com rome_alpha_reports_UAT_13_be2
+
+#Internal
+alpha_copy_api.starixuat.com rome_Alpha.Copy.Customer.API_be
