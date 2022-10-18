@@ -1,3 +1,4 @@
+alpha-apikey.nexdev.net rome_alpha_apikey_api_LOCAL_be
 dcs-cdn-docker.nexdev.net rome_dcs_setting_cdn_LOCAL_be
 dcs-matrix-api-docker.nexdev.net rome_dcs_matrix_setting_api_LOCAL_be
 alpha9.nexdev.net rome_alpha_beforelogin_LOCAL_9_be
@@ -68,7 +69,6 @@ alpha-api.nexdev.net rome_alpha_api_LOCAL_be
 telegrambot-api.nexdev.net rome_telegrambot_api_LOCAL_be
 telegrambot-receiver.nexdev.net rome_telegrambot_receiver_LOCAL_be
 telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
-alpha-identity.nexdev.net rome_identity_api_LOCAL_be
 ###docker windows
 alpha-reports.nexdev.net rome_alpha_reports_LOCAL_be
 alpha-login.nexdev.net rome_alpha_before_LOCAL_be
