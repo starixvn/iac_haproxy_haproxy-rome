@@ -2,6 +2,10 @@ fanex-auth.nexdev.net rome_fanex_auth_api_LOCAL_be
 alpha-apikey.nexdev.net rome_alpha_apikey_api_LOCAL_be
 dcs-cdn-docker.nexdev.net rome_dcs_setting_cdn_LOCAL_be
 dcs-matrix-api-docker.nexdev.net rome_dcs_matrix_setting_api_LOCAL_be
+alpha8.nexdev.net rome_alpha_beforelogin_LOCAL_2_be
+alpha7.nexdev.net rome_alpha_beforelogin_LOCAL_2_be
+alpha6.nexdev.net rome_alpha_beforelogin_LOCAL_2_be
+alpha5.nexdev.net rome_alpha_beforelogin_LOCAL_2_be
 alpha9.nexdev.net rome_alpha_beforelogin_LOCAL_3_be
 alpha10.nexdev.net rome_alpha_beforelogin_LOCAL_3_be
 alpha-gateways.nexdev.net rome_alpha_api_gateways_LOCAL_be
@@ -66,3 +70,6 @@ telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
 alpha-reports.nexdev.net rome_alpha_reports_LOCAL_be
 alpha-login.nexdev.net rome_alpha_before_LOCAL_be
 dcs-api-docker.nexdev.net rome_dcs_setting_api_LOCAL_be
+alpha1.nexdev.net rome_alpha_beforelogin_LOCAL_be
+alpha2.nexdev.net rome_alpha_beforelogin_LOCAL_be
+alpha3.nexdev.net rome_alpha_beforelogin_LOCAL_be
