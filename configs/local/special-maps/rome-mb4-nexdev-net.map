@@ -1,1 +1,2 @@
 ^/site-customers(/.*)?$ rome_alpha_customer_web_app_LOCAL_path_be
+^/ rome_alpha_site04_LOCAL_be
