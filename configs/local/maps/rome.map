@@ -70,6 +70,7 @@ telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
 #demo site
 cn88.nexdev.net rome_cn88_site_LOCAL_be
 mb88.nexdev.net rome_alpha_bf_site_LOCAL_be
+eb88.nexdev.net rome_eb_site_LOCAL_be
 ###docker windows
 alpha-reports.nexdev.net rome_alpha_reports_LOCAL_be
 alpha-login.nexdev.net rome_alpha_login_site_LOCAL_be
