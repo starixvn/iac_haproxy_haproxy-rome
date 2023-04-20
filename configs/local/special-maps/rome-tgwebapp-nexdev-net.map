@@ -1,1 +1,2 @@
 ^/local1(/.*)?$ rome_telegrambot_web_app_LOCAL_1_path_be
+^/main(/.*)?$ rome_telegrambot_web_app_LOCAL_path_be
