@@ -16,7 +16,6 @@ dcs-matrix-api-docker.nexdev.net rome_dcs_matrix_setting_api_LOCAL_be
 #alpha5.nexdev.net rome_alpha_beforelogin_LOCAL_2_be
 #alpha9.nexdev.net rome_alpha_beforelogin_LOCAL_3_be
 #alpha10.nexdev.net rome_alpha_beforelogin_LOCAL_3_be
-alpha-gateways.nexdev.net rome_alpha_api_gateways_LOCAL_be
 #ROME
 nex3-i1.nexdev.net nex3_i1_cluster_be
 nex3-i7.nexdev.net nex3_i7_cluster_be
