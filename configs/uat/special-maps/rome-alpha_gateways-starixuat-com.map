@@ -1,2 +1,1 @@
-^/v2(/.*)?$ rome_alpha_api_gateways_UAT_1_path_be
-^/v1(/.*)?$ rome_alpha_api_gateways_UAT_path_be
+^/v1(/.*)?$ rome_alpha_api_gateways_UAT_1_path_be
