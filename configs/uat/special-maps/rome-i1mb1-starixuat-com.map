@@ -1,4 +1,3 @@
 ^/site-betlists/runningbetlist(/.*)?$ rome_alpha_betlists_UAT_990_path_be
 ^/site-betlists/lastbets(/.*)?$ rome_alpha_betlists_UAT_991_path_be
 ^/site-betlists/monitoringbets(/.*)?$ rome_alpha_betlists_UAT_992_path_be
-#^/site-betlists(/.*)?$ rome_alpha_betlists_UAT_path_be
