@@ -51,3 +51,10 @@ stagingi11betlists.gatonic.com rome_alpha_staginginternalbetlists_ALPHAPROD_3_be
 #Internal
 vn-mbc-prod-api.nebula.prod rome_alpha_apikey_api_ALPHAPROD_be
 vn-789y-prod-api.nebula.prod rome_alpha_apikey_api_ALPHAPROD_1_be
+###Assets CDN
+#I11
+stcdn.ibcindo68.com rome_alpha_assets_ALPHAPROD_3_be
+stcdn.idag88.com rome_alpha_assets_ALPHAPROD_3_be
+#I4
+stcdn.tara88ag.com rome_alpha_assets_ALPHAPROD_4_be
+stcdn.tp88ag.com rome_alpha_assets_ALPHAPROD_4_be
