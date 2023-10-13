@@ -1,3 +1,4 @@
+^/v5(/.*)?$ rome_alpha_api_gateways_LOCAL_5_path_be
 ^/v4(/.*)?$ rome_alpha_api_gateways_LOCAL_4_path_be
 ^/v3(/.*)?$ rome_alpha_api_gateways_LOCAL_3_path_be
 ^/v2(/.*)?$ rome_alpha_api_gateways_LOCAL_2_path_be
