@@ -1,0 +1,2 @@
+^/helios/v1(/.*)?$ rome_alpha_ext_api_gateways_ALPHAPROD_path_be
+^/alps/v1(/.*)?$ rome_alpha_api_gateways_ALPHAPROD_be
