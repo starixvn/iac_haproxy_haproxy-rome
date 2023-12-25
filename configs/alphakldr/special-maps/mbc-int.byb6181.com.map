@@ -1,0 +1,3 @@
+^/site-reports(/.*)?$ rome_alpha_mbc_int_reports_ALPHAKLDR_be
+^/site-betlists(/.*)?$ rome_alpha_mbc_int_betlists_ALPHAKLDR_be
+^/ rome_alpha_mbc_int_ALPHAKLDR_be
