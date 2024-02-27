@@ -21,9 +21,8 @@ alpha11.starixuat.com rome_alpha_login_site_UAT_2_be
 alpha10.starixuat.com rome_alpha_login_site_UAT_1_be
 alpha1.starixuat.com rome_alpha_login_site_UAT_be
 #domain backendnames
-napu3v1.starixuat.com rome_nap_u3_UAT_be
 intnap.starixuat.com rome_intaccounting_UAT_be
-onebookumuat.starixuat.com rome_fanex_um_UAT_be
+#onebookumuat.starixuat.com rome_fanex_um_UAT_be
 
 ### I1
 i1mb1.starixuat.com rome_i1_af1_UAT_be
