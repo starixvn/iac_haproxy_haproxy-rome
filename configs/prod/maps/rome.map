@@ -6,3 +6,8 @@ vn-remotingref-prod.nebula.prod rome_shared_fanex_remotingref_api_core_PROD_be
 intaccounting.oneops.net rome_intaccounting_PROD_be
 telegramreceiver.ultra88.com rome_telegrambot_receiver_PROD_be
 onebookum.oneops.net rome_fanex_um_PROD_be
+###Customer CDN
+dcscdn-staging.oneops.net rome_fanex_customer_staging_cdn_PROD_be
+dcscdn.oneops.net rome_fanex_customer_cdn_PROD_be
+dcscdn.726872.com rome_fanex_customer_cdn_PROD_be
+dcscdn.focapts.com rome_fanex_customer_cdn_PROD_be
