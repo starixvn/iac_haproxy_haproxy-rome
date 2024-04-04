@@ -1,3 +1,4 @@
 ^/site-reports(/.*)?$ rome_alpha_i11_internalreports_bf_ALPHAPROD_be
 ^/site-betlists(/.*)?$ rome_alpha_i11_internalbetlists_bf_ALPHAPROD_be
+^/stdcsv1(/.*)?$ rome_fanex_customer_cdn_ALPHAPROD_1_be
 ^/ rome_alpha_i11_internal_bf_ALPHAPROD_be
