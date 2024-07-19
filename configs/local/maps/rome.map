@@ -91,6 +91,7 @@ alpha-api.nexdev.net rome_alpha_api_LOCAL_be
 telegrambot-api.nexdev.net rome_telegrambot_api_LOCAL_be
 telegrambot-receiver.nexdev.net rome_telegrambot_receiver_LOCAL_be
 telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
+remotingref-api-core.nexdev.net rome_shared_fanex_remotingref_api_core_LOCAL_be
 #demo site
 mb88.nexdev.net rome_cn88_site_LOCAL_be
 cn88.nexdev.net rome_alpha_bf_site_LOCAL_be
@@ -103,3 +104,4 @@ hlmb88.nexdev.net rome_cn88_site06_LOCAL_be
 alpha-reports.nexdev.net rome_alpha_reports_LOCAL_be
 dcs-api-docker.nexdev.net rome_dcs_setting_api_LOCAL_be
 tw-remotingref-service.nexdev.net rome_remotingref_service_tw_LOCAL_be
+
