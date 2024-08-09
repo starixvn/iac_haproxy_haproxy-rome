@@ -1,3 +1,6 @@
+^/v5(/.*)?$ rome_fanex_customer_cdn_LOCAL_5_path_be
+^/v4(/.*)?$ rome_fanex_customer_cdn_LOCAL_4_path_be
+^/v3(/.*)?$ rome_fanex_customer_cdn_LOCAL_3_path_be
 ^/v2(/.*)?$ rome_fanex_customer_cdn_LOCAL_2_path_be
 ^/v1(/.*)?$ rome_fanex_customer_cdn_LOCAL_1_path_be
 ^/main(/.*)?$ rome_fanex_customer_cdn_LOCAL_path_be
