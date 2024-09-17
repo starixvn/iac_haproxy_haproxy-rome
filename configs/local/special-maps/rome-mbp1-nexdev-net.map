@@ -1,2 +1,3 @@
+^/account-info(/.*)?$ rome_alphaplus_accountinfo_LOCAL_path_be
 ^/features(/.*)?$ rome_alphaplus_features_LOCAL_path_be
 ^/main(/.*)?$ rome_alphaplus_main_LOCAL_path_be
