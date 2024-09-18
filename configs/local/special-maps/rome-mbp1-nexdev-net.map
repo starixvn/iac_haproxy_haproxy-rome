@@ -1,3 +1,4 @@
+^/settings(/.*)?$ rome_alphaplus_settings_LOCAL_path_be
 ^/tickets(/.*)?$ rome_alphaplus_tickets_LOCAL_path_be
 ^/reports(/.*)?$ rome_alphaplus_reports_LOCAL_path_be
 ^/account-info(/.*)?$ rome_alphaplus_accountinfo_LOCAL_path_be
