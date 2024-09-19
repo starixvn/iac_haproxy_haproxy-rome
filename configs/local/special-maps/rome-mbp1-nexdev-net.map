@@ -1,6 +1,6 @@
+^/main(/.*)?$ rome_alphaplus_main_LOCAL_path_be
 ^/features(/.*)?$ rome_alphaplus_features_LOCAL_path_be
 ^/account-info(/.*)?$ rome_alphaplus_accountinfo_LOCAL_path_be
 ^/settings(/.*)?$ rome_alphaplus_settings_LOCAL_path_be
 ^/tickets(/.*)?$ rome_alphaplus_tickets_LOCAL_path_be
 ^/reports(/.*)?$ rome_alphaplus_reports_LOCAL_path_be
-^/main(/.*)?$ rome_alphaplus_main_LOCAL_path_be
