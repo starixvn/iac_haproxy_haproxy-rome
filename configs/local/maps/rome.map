@@ -1,3 +1,4 @@
+remotingref-api-core.nexdev.net rome_shared_fanex_remotingref_api_core_LOCAL_be
 alp1-ticket-api.nexdev.net rome_alphaplus_tickets_api_LOCAL_be
 alp1-id.nexdev.net rome_alphaplus_identity_LOCAL_be
 s1-jobs-monitor.nexdev.net rome_s1_background_tasks_LOCAL_be
@@ -96,7 +97,6 @@ alpha-api.nexdev.net rome_alpha_api_LOCAL_be
 telegrambot-api.nexdev.net rome_telegrambot_api_LOCAL_be
 telegrambot-receiver.nexdev.net rome_telegrambot_receiver_LOCAL_be
 telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
-remotingref-api-core.nexdev.net rome_shared_fanex_remotingref_api_core_LOCAL_be
 #demo site
 mb88.nexdev.net rome_cn88_site_LOCAL_be
 cn88.nexdev.net rome_alpha_bf_site_LOCAL_be
