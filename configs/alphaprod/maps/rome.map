@@ -1,3 +1,7 @@
+alpha-content-2.oneops.net rome_alpha_content_administration_ALPHAPROD_2_be
+vn-agency-content-prod-2.nebula.prod rome_alpha_content_administration_ALPHAPROD_2_be
+alpha-content.oneops.net rome_alpha_content_administration_ALPHAPROD_be
+vn-agency-content-prod.nebula.prod rome_alpha_content_administration_ALPHAPROD_be
 vn-remotingref-alphaprod.nebula.prod rome_shared_fanex_remotingref_api_core_ALPHAPROD_be
 vn-staging-customer.nebula.prod rome_fanex_customer_staging_api_ALPHAPROD_be
 vn-alphadataservice4-prod.nebula.prod rome_alpha_data_service_ALPHAPROD_4_be
@@ -6,8 +10,6 @@ vn-alphadataservice2-prod.nebula.prod rome_alpha_data_service_ALPHAPROD_2_be
 vn-alphadataservice-prod.nebula.prod rome_alpha_data_service_ALPHAPROD_be
 vn-onebookum-prod.nebula.prod rome_fanex_um_ALPHAPROD_be
 alpha-content-demo.oneops.net rome_alpha_handbook_ALPHAPROD_be
-alpha-content.oneops.net rome_alpha_content_administration_ALPHAPROD_be
-vn-agency-content-prod.nebula.prod rome_alpha_content_administration_ALPHAPROD_be
 vn-prod-customer.nebula.prod rome_fanex_customer_api_ALPHAPROD_be
 telegramreceiveruat.ultra88.com rome_telegrambot_receiver_ALPHAPROD_1_be
 intaccounting.oneops.net rome_intaccounting_ALPHAPROD_be
