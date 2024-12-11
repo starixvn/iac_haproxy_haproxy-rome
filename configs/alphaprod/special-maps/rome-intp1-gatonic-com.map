@@ -1,3 +1,4 @@
+^/settings(/.*)?$ rome_alphaplus_mbc_internal_settings_ALPHAPROD_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_internal_reports_ALPHAPROD_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_internal_main_ALPHAPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_internal_features_ALPHAPROD_path_be
