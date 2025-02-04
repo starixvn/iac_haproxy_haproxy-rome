@@ -1,1 +1,2 @@
+^/v1(/.*)?$ rome_deposit_api_gateways_SIT_1_path_be
 ^/main(/.*)?$ rome_deposit_api_gateways_SIT_path_be
