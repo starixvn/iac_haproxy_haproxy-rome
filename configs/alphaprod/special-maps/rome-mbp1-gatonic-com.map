@@ -1,3 +1,4 @@
+^/stdcsv2(/.*)?$ rome_alphaplus_cdn_settings_ALPHAPROD_path_be
 ^/tickets(/.*)?$ rome_alphaplus_mbc_tickets_ALPHAPROD_path_be
 ^/settings(/.*)?$ rome_alphaplus_mbc_settings_ALPHAPROD_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_ALPHAPROD_path_be
