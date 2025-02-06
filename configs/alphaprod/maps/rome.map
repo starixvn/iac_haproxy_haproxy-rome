@@ -3,7 +3,6 @@ alp-ticket-api.nebula.prod rome_alphaplus_api_tickets_ALPHAPROD_be
 alp1-id-api.nebula.prod rome_alphaplus_api_identity_ALPHAPROD_be
 alp2-id-api.nebula.prod rome_alphaplus_api_identity_ALPHAPROD_be
 alp2.gatonic.com rome_alphaplus_789y_login_ALPHAPROD_be
-alp2-cdn.gatonic.com rome_alphaplus_789y_assets_ALPHAPROD_be
 alp1-cdn.gatonic.com rome_alphaplus_mbc_assets_ALPHAPROD_be
 alp1.gatonic.com rome_alphaplus_mbc_login_ALPHAPROD_be
 alpha-content-demo-2.oneops.net rome_alpha_handbook_ALPHAPROD_2_be
@@ -115,5 +114,3 @@ dcscdn.bt1789.com rome_fanex_customer_cdn_ALPHAPROD_be
 alp-cdn.idag88.com rome_alphaplus_mbc_assets_ALPHAPROD_be
 ##I1
 alp-cdn.logifun.com rome_alphaplus_mbc_assets_ALPHAPROD_be
-##I7
-alp-cdn.bbmgr.com rome_alphaplus_789y_assets_ALPHAPROD_be
