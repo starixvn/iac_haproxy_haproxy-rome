@@ -1,3 +1,4 @@
+^/reports(/.*)?$ rome_alphaplus_ibc_reports_UAT_2_path_be
 ^/main(/.*)?$ rome_alphaplus_ibc_main_UAT_2_path_be
 ^/features(/.*)?$ rome_alphaplus_ibc_features_UAT_2_path_be
 ^/account-info(/.*)?$ rome_alphaplus_ibc_accountinfo_UAT_2_path_be
