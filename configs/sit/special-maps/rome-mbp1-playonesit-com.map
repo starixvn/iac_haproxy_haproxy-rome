@@ -1,6 +1,6 @@
+^/settings(/.*)?$ rome_alphaplus_mbc_settings_SIT_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_SIT_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_SIT_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_features_SIT_path_be
 ^/account-info(/.*)?$ rome_alphaplus_mbc_accountinfo_SIT_path_be
 ^/tickets(/.*)?$ rome_alphaplus_mbc_tickets_SIT_path_be
-^/settings(/.*)?$ rome_alphaplus_mbc_settings_SIT_path_be
