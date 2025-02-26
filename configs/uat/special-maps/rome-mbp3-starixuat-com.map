@@ -1,3 +1,4 @@
+^/tickets(/.*)?$ rome_alphaplus_mbc_tickets_UAT_3_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_UAT_3_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_UAT_3_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_features_UAT_3_path_be
