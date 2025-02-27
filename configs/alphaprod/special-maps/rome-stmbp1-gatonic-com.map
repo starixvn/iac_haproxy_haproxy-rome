@@ -1,1 +1,2 @@
+^/account-info(/.*)?$ rome_alphaplus_staging_mbc_accountinfo_ALPHAPROD_path_be
 ^/stdcsv2(/.*)?$ rome_alphaplus_staging_cdn_settings_ALPHAPROD_path_be
