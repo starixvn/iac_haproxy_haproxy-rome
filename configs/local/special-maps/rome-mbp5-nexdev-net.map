@@ -1,3 +1,4 @@
+^/settings(/.*)?$ rome_alphaplus_mbc_settings_LOCAL_5_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_LOCAL_5_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_LOCAL_5_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_features_LOCAL_5_path_be
