@@ -1,3 +1,4 @@
+^/tickets(/.*)?$ rome_alphaplus_staging_789y_tickets_ALPHAPROD_path_be
 ^/settings(/.*)?$ rome_alphaplus_staging_789y_settings_ALPHAPROD_path_be
 ^/reports(/.*)?$ rome_alphaplus_staging_789y_reports_ALPHAPROD_path_be
 ^/main(/.*)?$ rome_alphaplus_staging_789y_main_ALPHAPROD_path_be
