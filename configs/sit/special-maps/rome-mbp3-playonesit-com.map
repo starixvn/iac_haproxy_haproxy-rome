@@ -1,3 +1,4 @@
+^/stcdn(/.*)?$ rome_alphaplus_789y_assets_SIT_3_path_be
 ^/account-info(/.*)?$ rome_alphaplus_789y_accountinfo_SIT_path_be
 ^/tickets(/.*)?$ rome_alphaplus_789y_tickets_SIT_path_be
 ^/settings(/.*)?$ rome_alphaplus_789y_settings_SIT_path_be
