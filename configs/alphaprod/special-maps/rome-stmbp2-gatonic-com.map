@@ -1,3 +1,4 @@
+^/reports(/.*)?$ rome_alphaplus_staging_789y_reports_ALPHAPROD_path_be
 ^/main(/.*)?$ rome_alphaplus_staging_789y_main_ALPHAPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_staging_789y_features_ALPHAPROD_path_be
 ^/stdcsv2(/.*)?$ rome_alphaplus_staging_cdn_settings_ALPHAPROD_2_path_be
