@@ -1,3 +1,4 @@
+^/main(/.*)?$ rome_alphaplus_staging_ibc_main_ALPHAPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_staging_ibc_features_ALPHAPROD_path_be
 ^/account-info(/.*)?$ rome_alphaplus_staging_ibc_accountinfo_ALPHAPROD_path_be
 ^/stdcsv2(/.*)?$ rome_alphaplus_staging_cdn_settings_ALPHAPROD_3_path_be
