@@ -1,3 +1,4 @@
+^/stcdn(/.*)?$ rome_alphaplus_mbc_assets_SIT_5_path_be
 ^/tickets(/.*)?$ rome_alphaplus_ibc_tickets_SIT_path_be
 ^/settings(/.*)?$ rome_alphaplus_ibc_settings_SIT_path_be
 ^/reports(/.*)?$ rome_alphaplus_ibc_reports_SIT_path_be
