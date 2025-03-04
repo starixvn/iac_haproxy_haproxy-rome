@@ -1,3 +1,4 @@
+^/tickets(/.*)?$ rome_alphaplus_stinternal_ibc_tickets_ALPHAPROD_path_be
 ^/settings(/.*)?$ rome_alphaplus_stinternal_ibc_sett_ALPHAPROD_path_be
 ^/reports(/.*)?$ rome_alphaplus_stinternal_ibc_reports_ALPHAPROD_path_be
 ^/main(/.*)?$ rome_alphaplus_stinternal_ibc_main_ALPHAPROD_path_be
