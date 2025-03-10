@@ -1,3 +1,4 @@
+vn-prod-bet-limit.gamora.prod rome_bet_limit_extra_control_api_PROD_be
 s1-jobs-monitor.oneops.net rome_s1_background_tasks_PROD_be
 vn-dep-api-gw.amazzu.com rome_deposit_api_gateways_PROD_be
 vn-dep-api-gw.nebula.prod rome_deposit_api_gateways_PROD_be
