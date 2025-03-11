@@ -1,1 +1,7 @@
 ^/stcdn(/.*)?$ rome_alphaplus_mbc_assets_UAT_16_path_be
+^/account-info(/.*)?$ rome_alphaplus_mbc_accountinfo_UAT_10_path_be
+^/features(/.*)?$ rome_alphaplus_mbc_features_UAT_10_path_be
+^/main(/.*)?$ rome_alphaplus_mbc_main_UAT_10_path_be
+^/reports(/.*)?$ rome_alphaplus_mbc_reports_UAT_10_path_be
+^/settings(/.*)?$ rome_alphaplus_mbc_settings_UAT_10_path_be
+^/tickets(/.*)?$ rome_alphaplus_mbc_tickets_UAT_10_path_be
