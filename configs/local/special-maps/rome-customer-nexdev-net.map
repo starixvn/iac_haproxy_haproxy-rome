@@ -5,6 +5,7 @@
 ^/local5(/.*)?$ rome_fanex_customer_api_LOCAL_5_path_be
 ^/local4(/.*)?$ rome_fanex_customer_api_LOCAL_4_path_be
 ^/local3(/.*)?$ rome_fanex_customer_api_LOCAL_4_path_be
+^/local13(/.*)?$ nexops_sample_website1_LOCAL_13_path_be
 ^/local2(/.*)?$ rome_fanex_customer_api_LOCAL_2_path_be
 ^/local1(/.*)?$ rome_fanex_customer_api_LOCAL_1_path_be
 ^/main(/.*)?$ rome_fanex_customer_api_LOCAL_path_be
