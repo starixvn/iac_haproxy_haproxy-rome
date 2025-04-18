@@ -5,3 +5,4 @@
 ^/main(/.*)?$ rome_alphaplus_mbc_main_LOCAL_6_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_features_LOCAL_6_path_be
 ^/account-info(/.*)?$ rome_alphaplus_mbc_accountinfo_LOCAL_6_path_be
+^/cash-service(/.*)?$ rome_alphaplus_mbc_cachservice_LOCAL_6_path_be
