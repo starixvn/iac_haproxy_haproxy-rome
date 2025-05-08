@@ -1,7 +1,6 @@
 vn-dep-api-gw.gamora.prod rome_deposit_api_gateways_KLDR_be
 accounting.byb6181.com rome_nap_accounting_KLDR_be
 m7.byb6181.com rome_nap_maintenance_KLDR_be
-naphub.byb6181.com rome_nap_hub_KLDR_be
 napcm.byb6181.com rome_nap_cm_KLDR_be
 dcs.byb6181.com rome_nap_dcs_KLDR_be
 extnap.byb6181.com rome_extnap_KLDR_be
