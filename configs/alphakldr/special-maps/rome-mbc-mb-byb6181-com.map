@@ -1,3 +1,4 @@
+^/settings(/.*)?$ rome_alphaplus_mbc_settings_ALPHAKLDR_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_ALPHAKLDR_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_mbc_assets_ALPHAKLDR_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_ALPHAKLDR_path_be
