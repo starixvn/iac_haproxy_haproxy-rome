@@ -1,3 +1,4 @@
+^/features(/.*)?$ rome_alphaplus_mbc_features_ALPHAKLDR_path_be
 ^/account-info(/.*)?$ rome_alphaplus_mbc_accountinfo_ALPHAKLDR_path_be
 ^/stdcsv1(/.*)?$ rome_fanex_customer_cdn_ALPHAKLDR_path_be
 ^/site-reports(/.*)?$ rome_alpha_mbc_mb_reports_ALPHAKLDR_be
