@@ -1,3 +1,4 @@
+^/reports(/.*)?$ rome_alphaplus_789y_reports_ALPHAKLDR_path_be
 ^/main(/.*)?$ rome_alphaplus_789y_main_ALPHAKLDR_path_be
 ^/features(/.*)?$ rome_alphaplus_789y_features_ALPHAKLDR_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_789y_assets_ALPHAKLDR_path_be
