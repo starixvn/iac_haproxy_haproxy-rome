@@ -1,3 +1,4 @@
+^/settings(/.*)?$ rome_alphaplus_ibc_internal_settings_ALPHAKLDR_path_be
 ^/reports(/.*)?$ rome_alphaplus_ibc_internal_reports_ALPHAKLDR_path_be
 ^/main(/.*)?$ rome_alphaplus_ibc_internal_main_ALPHAKLDR_path_be
 ^/account-info(/.*)?$ rome_alphaplus_ibc_internal_accinfo_ALPHAKLDR_path_be
