@@ -1,2 +1,1 @@
-
-^/ rome_agencycash_api_gateway_SIT_path_be
+^/main(/.*)?$ rome_agencycash_api_gateway_SIT_path_be
