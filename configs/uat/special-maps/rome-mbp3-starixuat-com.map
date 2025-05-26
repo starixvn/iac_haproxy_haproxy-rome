@@ -5,3 +5,4 @@
 ^/account-info(/.*)?$ rome_alphaplus_mbc_accountinfo_UAT_3_path_be
 ^/settings(/.*)?$ rome_alphaplus_mbc_settings_UAT_3_path_be
 ^/tickets(/.*)?$ rome_alphaplus_mbc_tickets_UAT_3_path_be
+^/cash-service(/.*)?$ rome_alphaplus_mbc_cashservice_UAT_3_path_be

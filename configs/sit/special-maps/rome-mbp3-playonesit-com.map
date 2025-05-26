@@ -5,3 +5,4 @@
 ^/reports(/.*)?$ rome_alphaplus_789y_reports_SIT_path_be
 ^/main(/.*)?$ rome_alphaplus_789y_main_SIT_path_be
 ^/features(/.*)?$ rome_alphaplus_789y_features_SIT_path_be
+^/cash-service(/.*)?$ rome_alphaplus_789y_cashservice_SIT_path_be
