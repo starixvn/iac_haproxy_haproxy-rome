@@ -1,6 +1,6 @@
-^/v5(/.*)?$ rome_fanex_customer_api_SIT_5_path_be
-^/v4(/.*)?$ rome_fanex_customer_api_SIT_4_path_be
-^/v3(/.*)?$ rome_fanex_customer_api_SIT_3_path_be
-^/v2(/.*)?$ rome_fanex_customer_api_SIT_2_path_be
-^/v1(/.*)?$ rome_fanex_customer_api_SIT_1_path_be
+^/v5(/.*)?$ rome_alphaplus_api_settings_SIT_5_path_be
+^/v4(/.*)?$ rome_alphaplus_api_settings_SIT_4_path_be
+^/v3(/.*)?$ rome_alphaplus_api_settings_SIT_3_path_be
+^/v2(/.*)?$ rome_alphaplus_api_settings_SIT_2_path_be
+^/v1(/.*)?$ rome_alphaplus_api_settings_SIT_path_be
 ^/main(/.*)?$ rome_fanex_customer_api_SIT_path_be
