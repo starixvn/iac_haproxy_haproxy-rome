@@ -5,3 +5,4 @@
 ^/reports(/.*)?$ rome_alphaplus_staging_mbc_reports_ALPHAPROD_path_be
 ^/main(/.*)?$ rome_alphaplus_staging_mbc_main_ALPHAPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_staging_mbc_features_ALPHAPROD_path_be
+^/cash-service(/.*)?$ rome_alphaplus_staging_mbc_cashservice_ALPHAPROD_path_be
