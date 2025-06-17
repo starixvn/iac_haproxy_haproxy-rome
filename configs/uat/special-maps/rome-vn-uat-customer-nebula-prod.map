@@ -1,3 +1,4 @@
+^/v5(/.*)?$ rome_fanex_customer_api_UAT_5_path_be
 ^/v4(/.*)?$ rome_fanex_customer_api_UAT_4_path_be
 ^/v3(/.*)?$ rome_fanex_customer_api_UAT_3_path_be
 ^/v2(/.*)?$ rome_fanex_customer_api_UAT_2_path_be
