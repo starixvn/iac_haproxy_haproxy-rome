@@ -1,0 +1,9 @@
+^/main(/.*)?$ rome_alphaplus_789y_main_ALPHAKLPROD_path_be
+^/stdcsv1(/.*)?$ rome_fanex_customer_cdn_ALPHAKLPROD_path_be
+^/stcdn(/.*)?$ rome_alphaplus_789y_assets_ALPHAKLPROD_path_be
+^/tickets(/.*)?$ rome_alphaplus_789y_tickets_ALPHAKLPROD_path_be
+^/settings(/.*)?$ rome_alphaplus_789y_settings_ALPHAKLPROD_path_be
+^/reports(/.*)?$ rome_alphaplus_789y_reports_ALPHAKLPROD_path_be
+^/features(/.*)?$ rome_alphaplus_789y_features_ALPHAKLPROD_path_be
+^/cash-service(/.*)?$ rome_alphaplus_789y_cashservice_ALPHAKLPROD_path_be
+^/account-info(/.*)?$ rome_alphaplus_789y_accountinfo_ALPHAKLPROD_path_be
