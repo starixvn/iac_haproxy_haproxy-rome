@@ -5,4 +5,6 @@ accounting-klp.starixplay.com rome_nap_accounting_KLPROD_be
 extnap-klp.starixplay.com rome_ext_nap_KLPROD_be
 napcm-klp.starixplay.com rome_nap_cm_KLPROD_be
 m7-klp.starixplay.com rome_m7_KLPROD_be
-
+dcs-matrix-api.starix-klprod.gamora.prod rome_dcs_matrix_api_KLPROD_be
+announcement-api.starix-klprod.gamora.prod rome_announcement_api_KLPROD_be
+copy-custommer-api.starix-klprod.gamora.prod rome_copy_customer_api_KLPROD_be
