@@ -5,5 +5,5 @@
 ^/reports(/.*)?$ rome_alphaplus_789y_internal_rpt_ALPHAKLPROD_2_path_be
 ^/features(/.*)?$ rome_alphaplus_789y_internal_feat_ALPHAKLPROD_2_path_be
 ^/cash-service(/.*)?$ rome_alphaplus_789y_internal_cash_ALPHAKLPROD_2_path_be
-^/account-info(/.*)?$ rome_alphaplus_789y_internal_internal_acc_ALPHAKLPROD_2_path_be
+^/account-info(/.*)?$ rome_alphaplus_789y_internal_acc_ALPHAKLPROD_2_path_be
 ^/main(/.*)?$ rome_alphaplus_789y_internal_main_ALPHAKLPROD_2_path_be
