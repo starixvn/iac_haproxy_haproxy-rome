@@ -5,6 +5,7 @@ vn-bet-limit.starix-klprod.gamora.prod rome_bet_limit_extra_control_api_KLPROD_b
 naphub-klp.starixplay.com rome_nap_fanex_nap_home_KLPROD_be
 vn-remotingref.starix-klprod.gamora.prod rome_shared_fanex_remotingref_KLPROD_be
 accounting-klp.starixplay.com rome_nap_accounting_KLPROD_be
+accounting.stag-kl.oneops.net rome_nap_accounting_Stag_KLPROD_be
 accounting-api.starix-klprod.gamora.prod rome_nap_accounting_KLPROD_be
 extnap-klp.starixplay.com rome_ext_nap_KLPROD_be
 napcm-klp.starixplay.com rome_nap_cm_KLPROD_be
