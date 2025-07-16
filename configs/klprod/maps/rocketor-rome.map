@@ -12,6 +12,8 @@ vn-prod-agencycash-api.starix-klprod.gamora.prod rome_agencycash_api_gateway_KLP
 vn-customer.starix-klprod.gamora.prod rome_fanex_customer_api_KLPROD_be
 accounting-klp.starixplay.com rome_nap_accounting_KLPROD_be
 accounting.oneops.net rome_nap_accounting_KLPROD_be
+accounting2.oneops.net rome_nap_accounting_KLPROD_be
+accounting3.oneops.net rome_nap_accounting_KLPROD_be
 accounting.stag-kl.oneops.net rome_nap_accounting_Stag_KLPROD_be
 accounting-api.starix-klprod.gamora.prod rome_nap_accounting_KLPROD_be
 extnap-klp.starixplay.com rome_ext_nap_KLPROD_be
