@@ -1,3 +1,4 @@
+^/stdcsv1(/.*)?$ rome_fanex_customer_staging_cdn_ALPHAKLPROD_path_be
 ^/account-info(/.*)?$ rome_alphaplus_staging_mbc_acc_ALPHAKLPROD_path_be
 ^/cash-service(/.*)?$ rome_alphaplus_staging_mbc_cash_ALPHAKLPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_staging_mbc_features_ALPHAKLPROD_path_be
@@ -6,4 +7,3 @@
 ^/settings(/.*)?$ rome_alphaplus_staging_mbc_settings_ALPHAKLPROD_path_be
 ^/tickets(/.*)?$ rome_alphaplus_staging_mbc_tickets_ALPHAKLPROD_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_staging_mbc_assets_ALPHAKLPROD_path_be
-^/stdcsv1(/.*)?$ rome_fanex_customer_staging_cdn_ALPHAKLPROD_path_be

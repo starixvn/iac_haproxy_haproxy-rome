@@ -6,4 +6,3 @@
 ^/settings(/.*)?$ rome_alphaplus_stinternal_ibc_sett_ALPHAKLPROD_path_be
 ^/tickets(/.*)?$ rome_alphaplus_stinternal_ibc_tk_ALPHAKLPROD_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_stinternal_mbc_assets_ALPHAKLPROD_path_be
-^/stdcsv1(/.*)?$ rome_fanex_customer_staging_cdn_ALPHAKLPROD_path_be
