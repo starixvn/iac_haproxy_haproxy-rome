@@ -1,4 +1,5 @@
-vn-staging-customer.gamora.prod rome_fanex_customer_staging_api_ALPHAPROD_be
+vn-staging-customer.starix-klprod.gamora.prod rome_fanex_customer_staging_api_ALPHAPROD_be
+vn-staging-customer.starix-alphaklprod.gamora.prod rome_fanex_customer_staging_api_ALPHAPROD_be
 telegramreceiver.ultra88.com rome_telegrambot_receiver_ALPHAPROD_be
 vn-alphaprod-member-apis.nebula.prod rome_telegrambot_memberapis_ALPHAPROD_be
 vn-staging-settings-api.nebula.prod rome_alphaplus_staging_api_settings_ALPHAPROD_be
