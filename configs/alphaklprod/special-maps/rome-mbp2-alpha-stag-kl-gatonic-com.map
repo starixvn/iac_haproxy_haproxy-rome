@@ -1,3 +1,4 @@
+^/stdcsv1(/.*)?$ rome_fanex_customer_staging_cdn_ALPHAKLPROD_2_path_be
 ^/account-info(/.*)?$ rome_alphaplus_staging_789y_acc_ALPHAKLPROD_path_be
 ^/cash-service(/.*)?$ rome_alphaplus_staging_789y_cash_ALPHAKLPROD_path_be
 ^/features(/.*)?$ rome_alphaplus_staging_789y_features_ALPHAKLPROD_path_be
