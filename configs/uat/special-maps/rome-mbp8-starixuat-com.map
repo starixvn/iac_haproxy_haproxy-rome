@@ -1,3 +1,4 @@
+^/auth(/.*)?$ rome_alphaplus_789y_auth_UAT_4_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_789y_assets_UAT_8_path_be
 ^/account-info(/.*)?$ rome_alphaplus_789y_accountinfo_UAT_4_path_be
 ^/tickets(/.*)?$ rome_alphaplus_789y_tickets_UAT_4_path_be

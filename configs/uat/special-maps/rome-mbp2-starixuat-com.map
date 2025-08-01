@@ -1,3 +1,4 @@
+^/auth(/.*)?$ rome_alphaplus_mbc_auth_UAT_2_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_mbc_assets_UAT_2_path_be
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_UAT_2_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_UAT_2_path_be
