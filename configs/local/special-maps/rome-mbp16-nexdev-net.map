@@ -1,4 +1,5 @@
-^/stcdn(/.*)?$ rome_alphaplus_mbc_assets_LOCAL_16_path_be
+^/auth(/.*)?$ rome_alphaplus_ibc_auth_LOCAL_16_path_be
+^/stcdn(/.*)?$ rome_alphaplus_ibc_assets_LOCAL_16_path_be
 ^/tickets(/.*)?$ rome_alphaplus_ibc_tickets_LOCAL_16_path_be
 ^/settings(/.*)?$ rome_alphaplus_ibc_settings_LOCAL_16_path_be
 ^/reports(/.*)?$ rome_alphaplus_ibc_reports_LOCAL_16_path_be
