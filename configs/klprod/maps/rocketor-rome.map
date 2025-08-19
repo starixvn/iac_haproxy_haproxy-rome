@@ -1,4 +1,4 @@
-cashservice-jobs-monitor.kl.gatonic.com rome_shared_cashservicebillingjob_KLPROD_be
+cashservice-jobs-monitor.kl.gamora.prod rome_shared_cashservicebillingjob_KLPROD_be
 vn-staging-customer.starix-klprod.gamora.prod rome_fanex_customer_staging_api_KLPROD_be
 vn-bet-limit.starix-klprod.gamora.prod rome_bet_limit_extra_control_api_KLPROD_be
 vn-prod-bet-limit.nebula.prod rome_bet_limit_extra_control_api_KLPROD_be
