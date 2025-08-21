@@ -1,8 +1,10 @@
 vn-prod-agencycash-api.starix-alphaklprod.gamora.prod rome_agencycash_api_gateway_ALPHAKLPROD_be
 vn-prod-agencycash-api.oneops.net rome_agencycash_api_gateway_ALPHAKLPROD_be
 alpha-content-demo-2.oneops.net rome_alpha_handbook_ALPHAKLPROD_2_be
-alpha-content-demo-klp.starixplay.com rome_alpha_handbook_ALPHAKLPROD_be
-alpha-content-demo.oneops.net rome_alpha_handbook_ALPHAKLPROD_be
+# alpha-content-demo-klp.starixplay.com rome_alpha_handbook_ALPHAKLPROD_be
+alpha-content-demo-klp.starixplay.com rome_alpha_handbook_ALPHAKLPROD_3_be
+# alpha-content-demo.oneops.net rome_alpha_handbook_ALPHAKLPROD_be
+alpha-content-demo.oneops.net rome_alpha_handbook_ALPHAKLPROD_3_be
 telegramreceiver.u.ultra88.com rome_telegrambot_receiver_ALPHAKLPROD_1_be
 vn-staging-agencycash-api.starix-alphaklprod.gamora.prod rome_alphaplus_staging_api_cash_ALPHAKLPROD_be
 vn-staging-customer.starix-alphaklprod.gamora.prod rome_fanex_customer_staging_api_ALPHAKLPROD_be
