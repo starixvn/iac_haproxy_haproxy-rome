@@ -7,3 +7,4 @@
 ^/reports(/.*)?$ rome_alphaplus_mbc_reports_LOCAL_path_be
 ^/main(/.*)?$ rome_alphaplus_mbc_main_LOCAL_path_be
 ^/features(/.*)?$ rome_alphaplus_mbc_features_LOCAL_path_be
+^/$ rome_alphaplus_mbc_main_LOCAL_path_be
