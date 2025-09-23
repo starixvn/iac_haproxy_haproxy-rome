@@ -8,4 +8,4 @@
 ^/cash-service(/.*)?$ rome_alphaplus_ibc_cashservice_ALPHAKLPROD_path_be
 ^/account-info(/.*)?$ rome_alphaplus_ibc_accountinfo_ALPHAKLPROD_path_be
 ^/auth(/.*)?$ rome_alphaplus_ibc_auth_ALPHAKLPROD_path_be
-#^/$ rome_alphaplus_ibc_main_ALPHAKLPROD_path_be
+^/$ rome_alphaplus_ibc_main_ALPHAKLPROD_path_be
