@@ -8,3 +8,4 @@
 ^/settings(/.*)?$ rome_alphaplus_staging_ibc_settings_ALPHAKLPROD_path_be
 ^/tickets(/.*)?$ rome_alphaplus_staging_ibc_tickets_ALPHAKLPROD_path_be
 ^/stcdn(/.*)?$ rome_alphaplus_staging_mbc_assets_ALPHAKLPROD_path_be
+^/$ rome_alphaplus_staging_ibc_main_ALPHAKLPROD_path_be
