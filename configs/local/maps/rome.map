@@ -1,3 +1,4 @@
+alpha-api.klc.nexdev.net rome_alpha_api_LOCAL_be
 remotingref-api-core.nexdev.net rome_shared_fanex_remotingref_api_core_LOCAL_be
 vn-remotingref-demo.klc.nexdev.net rome_shared_fanex_remotingref_demo_core_LOCAL_be
 cash-cdn.nexdev.net rome_alphaplus_mbc_cashservice_cdn_LOCAL_be
@@ -119,7 +120,6 @@ remotingref-demo.nexdev.net rome_remotingref_demo_LOCAL_be
 remotingref-api.nexdev.net rnd_remotingref_api_LOCAL_be
 betlist-demo.nexdev.net rome_betList_core_demo_LOCAL_be
 fanex-grid.nexdev.net rome_fanex_grid_LOCAL_be
-alpha-api.nexdev.net rome_alpha_api_LOCAL_be
 telegrambot-api.nexdev.net rome_telegrambot_api_LOCAL_be
 telegrambot-receiver.nexdev.net rome_telegrambot_receiver_LOCAL_be
 telegrambot-receiver1.nexdev.net rome_telegrambot_receiver_LOCAL_1_be
