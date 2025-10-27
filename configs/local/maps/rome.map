@@ -1,3 +1,4 @@
+telegrambot-portal-apis.klc.nexdev.net rome_telegrambot_portalapis_LOCAL_be
 telegrambot-api.klc.nexdev.net rome_telegrambot_api_LOCAL_be
 alpha-api.klc.nexdev.net rome_alpha_api_LOCAL_be
 remotingref-api-core.nexdev.net rome_shared_fanex_remotingref_api_core_LOCAL_be
@@ -61,7 +62,6 @@ alpha-content.nexdev.net rome_alpha_content_administration_LOCAL_be
 alpha_betlists_api_local rome_alpha_betlists_api_LOCAL_be
 tgwebapp1.nexdev.net rome_telegrambot_web_app_LOCAL_1_be
 tgwebapp.nexdev.net rome_telegrambot_web_app_LOCAL_be
-telegrambot-portal-apis.nexdev.net rome_telegrambot_portalapis_LOCAL_be
 remotingref-api-d.nexdev.net rome_remotingref_api_LOCAL_be
 betlist-demo-d.nexdev.net rome_betlist_demo_LOCAL_be
 fanex-auth.nexdev.net rome_fanex_auth_api_LOCAL_be
