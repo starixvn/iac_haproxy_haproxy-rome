@@ -1,1 +1,9 @@
 ^/account-info(/.*)?$ rome_alphaplus_789y_accountinfo_SIT_4_path_be
+^/auth(/.*)?$ rome_alphaplus_789y_auth_SIT_4_path_be
+^/stcdn(/.*)?$ rome_alphaplus_789y_assets_SIT_4_path_be
+^/tickets(/.*)?$ rome_alphaplus_789y_tickets_SIT_4_path_be
+^/settings(/.*)?$ rome_alphaplus_789y_settings_SIT_4_path_be
+^/reports(/.*)?$ rome_alphaplus_789y_reports_SIT_4_path_be
+^/main(/.*)?$ rome_alphaplus_789y_main_SIT_4_path_be
+^/features(/.*)?$ rome_alphaplus_789y_features_SIT_4_path_be
+^/cash-service(/.*)?$ rome_alphaplus_789y_cashservice_SIT_4_path_be
